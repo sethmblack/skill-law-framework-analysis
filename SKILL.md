@@ -3,8 +3,8 @@ name: law-framework-analysis
 description: Analyze a situation, challenge, or domain using Robert Greene's law formulation methodology, producing numbered laws with historical case studies, keys to power, and reversals.
 license: MIT
 metadata:
+  version: 1.0.4364
   author: sethmblack
-  version: 1.0.4363
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - law-framework-analysis
